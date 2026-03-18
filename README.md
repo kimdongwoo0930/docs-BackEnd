@@ -10,17 +10,17 @@
 
 ### ☕ Java / Spring
 
-| 문서                              | 설명                                       |
-| --------------------------------- | ------------------------------------------ |
-| [JAVA](./Java/README.md)          | 영속성 컨텍스트, LAZY/EAGER, N+1, 더티체킹 |
-| [Spring boot](./spring/README.md) | 필터 체인, 인증·인가 구조, JWT 설계        |
+| 문서                              | 설명                   |
+| --------------------------------- | ---------------------- |
+| [JAVA](./Java/README.md)          | Java Language 기본개념 |
+| [Spring boot](./spring/README.md) | 프레임워크의 모든것    |
 
 ### 🗄 Database
 
-| 문서                       | 설명                                 |
-| -------------------------- | ------------------------------------ |
-| [MySQL](./mysql/README.md) | 인덱스, 실행계획, 트랜잭션 격리 수준 |
-| [Redis](./redis/README.md) | 캐싱 전략, 세션, 자료구조            |
+| 문서                       | 설명                      |
+| -------------------------- | ------------------------- |
+| [MySQL](./mysql/README.md) | ERD, SQL문                |
+| [Redis](./redis/README.md) | 캐싱 전략, 세션, 자료구조 |
 
 ### 🌐 Network / Web
 
@@ -62,24 +62,6 @@
 4. 실제 코드에서는 어떻게 쓰는가?    ← 예제 코드
 5. 면접에서 나올 수 있는 질문        ← Q&A
 ```
-
-<br>
-
-## 🔧 개발 환경
-
-- **Framework** : Spring Boot 3.5.11
-- **ORM** : Spring Data JPA (Hibernate)
-- **Database** : MySQL, Redis
-- **Build** : Gradle
-- **Server** : Mac Mini (Docker)
-
-<br>
-
-## 🔗 관련 프로젝트
-
-| 레포                                                                             | 설명                                             |
-| -------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [spring-boot-board-api](https://github.com/kimdongwoo0930/spring-boot-board-api) | 게시판 REST API — JPA, 예외 처리, 계층 구조 실습 |
 
 <br>
 
