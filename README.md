@@ -36,6 +36,12 @@
 | [Docker / CI·CD](./docker/README.md) | 컨테이너 구조, Compose, GitHub Actions |
 | [Linux / Shell](./linux/README.md)   | 자주 쓰는 명령어, 권한, 프로세스 관리  |
 
+### 🏛 설계 / 디자인 패턴
+
+| 문서                                              | 설명                                       |
+| ------------------------------------------------- | ------------------------------------------ |
+| [디자인 패턴](./design-pattern/README.md)         | SOLID, GoF 패턴 (생성·구조·행동)           |
+
 ### 🧠 CS 기초
 
 | 문서                                              | 설명                                 |
